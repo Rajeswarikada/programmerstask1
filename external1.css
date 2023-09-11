@@ -1,0 +1,89 @@
+#imagea{
+	background-image:url('11.jpg');
+	width: 100%;
+	background-size: cover;
+	height: 500px;
+}
+#A{
+	height:60px;
+	width: 60px;
+	border-radius: 250px;
+}
+#B{
+	height:560px;
+	width:550px;
+}
+#a12{
+	padding-top: 30px;
+}
+#a4{
+	color: blue;
+}
+#a6{
+	color: white;
+	font-size: 25px;
+}
+#D{
+	background-image:url('20.jpg');
+	width: 100%;
+	background-size: cover;
+	height: 500px;
+	color:white;
+}
+#t{
+	padding-top: 25px;
+	text-align: center;
+}
+#E{
+	height: 250px;
+	width: 100%;
+}
+#l1{
+	margin-right:170px;
+}
+#C{
+	height: 700px;
+	width: 90%;
+}
+#a5{
+	height: 600px;
+	width: 90%;
+}
+#email{
+	height: 20%;
+	width:30%;
+}
+#usr{
+	height: 20%;
+	width: 70%;
+	text-align: center;
+	color: white;
+	background-color: #0000FF;
+}
+#co{
+	background-color: #0000FF;
+}
+#F{
+	color: white;
+	background-color: #0000FF;
+}
+#bgi{
+	background-image:url('21.jpg');
+	width: 100%;
+	background-size: cover;
+	height: 500px;
+}
+#bg1{
+	padding: 5px;
+	margin-top: 60px;
+	text-align: center;
+	color: white;
+}
+#vo{
+	color: white;
+	background-color:#E238EC;
+	border: #E238EC;
+}
+.a{
+	margin-right:400px;
+}
